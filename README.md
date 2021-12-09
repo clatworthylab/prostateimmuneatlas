@@ -1,8 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5717964.svg)](https://doi.org/10.5281/zenodo.5717964)
 
 # prostateimmuneatlas
-single-cell RNAseq analysis notebooks accompanying Tuong et al.
-
 These analyses notebooks accompany a manuscript accepted in Cell Reports:
 Zewen Kelvin Tuong, Kevin W. Loudon, Brendan Berry, Nathan Richoz, Julia Jones, Xiao Tan, Quan Nguyen, Anne George, Satoshi Hori, Sarah Field, Andy G. Lynch, Katarzyna Kania, Paul Coupland, Anne Babbage, Richard Grenfell, Tristan Barrett, Anne Y. Warren, Vincent Gnanapragasam, Charlie Massie, Menna R. Clatworthy. Resolving the immune landscape of human prostate at a single cell level in health and cancer. Cell Reports. 2021.
 
